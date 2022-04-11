@@ -1,0 +1,33 @@
+/*****************************************************TAG SELECTORS***********************************************/
+
+h1{
+  font-size: 50px;
+  color: green;
+
+}
+
+img{
+  background-color: lightgreen;
+  width: 100px;
+}
+
+body{
+  background-color: darkkhaki;
+}
+/*****************************************************CLASS SELECTORS********************************************/
+
+.bacon {
+  background-color: blue;
+}
+.burger{
+  background-color: lightgreen;
+}
+.linea1{
+  color: green
+}
+.linea2{
+  color: yellow
+}
+.linea3{
+  color: red
+}
